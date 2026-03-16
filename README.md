@@ -1,13 +1,11 @@
 # SQL Murder Mystery Investigation
 
-## Título de la Actividad
-
-Resolución del Caso: SQL Murder Mystery
+## Resolución del Caso: SQL Murder Mystery
 
 ## Datos del Detective
 
 Nombre: Daniel Mesa Patiño
-Curso / Actividad: Investigación con SQL – SQL Murder Mystery
+Investigación con SQL – SQL Murder Mystery
 
 ---
 
